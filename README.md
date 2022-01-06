@@ -1,10 +1,10 @@
-### Oii! Eu sou o Rô 👋
+### Oi! Eu sou o Rô. Tudo bom? 👋
 
 - 🔭 Atualmente não estou trabalhando;
 - 🌱 Estou me aperfeiçoando na stack MEVN;
-- 📫 Você pode me contatar em: rodrigo.siliunas98@outlook.com, rodrigo.siliunas12@gmail.com;
+- 📫 Você pode me contatar em: rodrigo.siliunas98@outlook.com, rodrigo.siliunas12@gmail.com ou pelo Discord no perfil Rodrigo 42X#7737;
 - 😄 Pronomes: ele/dele;
-- ⚡ Estudante universitário do quinto periodo do curso de Sistemas de Informação na FIT.
+- ⚡ Fato divertido: A noite eu apago a luz e saio correndo para cama imaginando que tem um PHP ou Java querendo me pegar.
 
 </br>
 </br>
