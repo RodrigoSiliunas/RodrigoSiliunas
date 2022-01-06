@@ -1,4 +1,4 @@
-### Oi! Eu sou o Rô. Tudo bom? 👋
+### Oi! Meu nome é Rodrigo 👋 Tudo bom? 
 
 - 🔭 Atualmente não estou trabalhando;
 - 🌱 Estou me aperfeiçoando na stack MEVN;
