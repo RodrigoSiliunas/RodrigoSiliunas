@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente não estou trabalhando;
 - 🌱 Estou me aperfeiçoando na stack MEVN;
-- 📫 Você pode me contatar em: rodrigo.siliunas98@outlook.com, rodrigo.siliunas12@gmail.com ou pelo Discord no perfil Rodrigo 42X#7737;
+- 📫 Você pode me contatar em: rodrigo.siliunas98@outlook.com, rodrigo.siliunas12@gmail.com ou pelo Discord no perfil Rodrigo 42X#7737 ou clicando no botão de WhatsApp dessa página;
 - 😄 Pronomes: ele/dele;
 - ⚡ Fato divertido: A noite eu apago a luz e saio correndo com medo do Java.
 
