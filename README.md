@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/RodrigoSiliunas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSiliunas&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazziJazz&layout=compact&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSiliunas&layout=compact&langs_count=5"/>
 </div>
 
  <div style="display: inline_block" align="center"><br>
