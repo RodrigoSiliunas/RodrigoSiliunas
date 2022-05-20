@@ -1,6 +1,6 @@
 ### Oi! Meu nome é Rodrigo 👋 Tudo bom?
 
-- 🔭 Atualmente estou trabalhando na !(Via Expressao)[https://viaexpressa.com/];
+- 🔭 Atualmente estou trabalhando na ![Via Expressa](https://viaexpressa.com/);
 - 🌱 Estou me aperfeiçoando na stack FVeMP;
 - 📫 Você pode me contatar em: rodrigo.siliunas98@outlook.com, rodrigo.siliunas12@gmail.com, pelo Discord no perfil Rodrigo X#7737 ou clicando no botão de WhatsApp dessa página;
 - 😄 Pronomes: ele/dele;
