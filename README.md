@@ -1,10 +1,10 @@
 ### Oi! Meu nome é Rodrigo 👋 Tudo bom?
 
-- 🔭 Atualmente estou trabalhando na [Via Expressa](https://viaexpressa.com/);
-- 🌱 Estou me aperfeiçoando na stack FVeMP;
+- 🔭 Atualmente estou trabalhando no [PagBank PagSeguro](https://pagseguro.uol.com.br/);
+- 🌱 Atualmente estou me aperfeiçoando na área de dados e tenho um conhecimento considerável na área de desenvolvimento web;
 - 📫 Você pode me contatar em: rodrigo.siliunas98@outlook.com, rodrigo.siliunas12@gmail.com, pelo Discord no perfil Rodrigo X#7737 ou clicando no botão de WhatsApp dessa página;
 - 😄 Pronomes: ele/dele;
-- ⚡ Fato divertido: A noite eu apago a luz e saio correndo com medo do Java.
+- ⚡ Fato divertido: Consigo colocar os dois pés atrás da cabeça.
 - 💃🕺✨ Procuro repositórios open source que necessitem de colaboradores. Se precisa de uma mão em alguma coisa, não deixe de me contatar. 
 
 </br>
