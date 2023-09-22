@@ -1,11 +1,10 @@
 ### Oi! Meu nome é Rodrigo 👋 Tudo bom?
 
-- 🔭 Atualmente estou trabalhando no [PagBank PagSeguro](https://pagseguro.uol.com.br/);
-- 🌱 Atualmente estou me aperfeiçoando na área de dados e tenho um conhecimento considerável na área de desenvolvimento web;
-- 📫 Você pode me contatar em: rodrigo.siliunas98@outlook.com, rodrigo.siliunas12@gmail.com, pelo Discord no perfil Rodrigo X#7737 ou clicando no botão de WhatsApp dessa página;
-- 😄 Pronomes: ele/dele;
-- ⚡ Fato divertido: Consigo colocar os dois pés atrás da cabeça.
-- 💃🕺✨ Procuro repositórios open source que necessitem de colaboradores. Se precisa de uma mão em alguma coisa, não deixe de me contatar. 
+- 🔭 Atualmente estou procurando um emprego;
+- 🌱 Estou me aperfeiçoando na área de dados e tenho um conhecimento considerável na área de desenvolvimento web;
+- 📫 Você pode me contatar em: rodrigo.siliunas12@gmail.com, pelo Discord no perfil Rodrigo X#7737 ou clicando no botão de WhatsApp dessa página;
+- ⚡ Fatos divertidos: Consigo colocar os dois pés atrás da cabeça; Já fiz amizade com um ladrão que ia me roubar e acabei não sendo roubado; Já fui mestre no LoLzinho.
+- 💃🕺✨ Caminhando, cantando e seguindo a canção. 
 
 </br>
 </br>
