@@ -1,9 +1,9 @@
 ### Oi! Meu nome é Rodrigo 👋 Tudo bom?
 
-- 🔭 Atualmente estou procurando um emprego;
-- 🌱 Estou me aperfeiçoando na área de dados e tenho um conhecimento considerável na área de desenvolvimento web;
-- 📫 Você pode me contatar em: rodrigo.siliunas12@gmail.com, pelo Discord no perfil .rodrigox ou clicando no botão de WhatsApp dessa página;
-- ⚡ Fatos divertidos: Consigo colocar os dois pés atrás da cabeça; Já fiz amizade com um ladrão que estava pronto para me roubar e acabei não sendo roubado; Já fui mestre no League of Legends. Não sei interagir socialmente.
+- 🔭 Atualmente estou buscando uma oportunidade de emprego;
+- 🌱 Estou me aperfeiçoando na área de machine learning e tenho um conhecimento considerável na área de desenvolvimento web, dados e BI;
+- 📫 Você pode me contatar em: rodrigo.siliunas12@gmail.com, pelo Discord no perfil .rodrigox OU clicando no botão de WhatsApp dessa página;
+- ⚡ Fato divertido: Já fui mestre no League of Legends.
 - 💃🕺✨ Caminhando, cantando e seguindo a canção... 
 
 </br>
