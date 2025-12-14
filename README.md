@@ -6,32 +6,6 @@
 - ⚡ Fato divertido: Já fui mestre no League of Legends.
 - 💃🕺✨ Caminhando, cantando e seguindo a canção... 
 
-</br>
-</br>
-
-
-<div align="center">
-  <a href="https://github.com/RodrigoSiliunas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSiliunas&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSiliunas&layout=compact&langs_count=5"/>
-</div>
-
- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rodrigo-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Rodrigo-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rodrigo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rodrigo-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   
-  <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-  <img align="center" alt="Rodrigo-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
-   
-  <img align="center" alt="Rodrigo-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Rodrigo-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-</div>
- 
  ##
   
  <div align="center">
